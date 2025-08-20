@@ -1,0 +1,9 @@
+ID,Name,gender,age,study_hours,attendance(%),marks_math,marks_science,grade
+1,riya,f,17,3.5,95,88,92,A
+2,arjun,m,18,2,82,75,80,B
+3,sneha,f,17,4,98,90,89,A
+4,rakesh,m,19,1.5,70,65,68,C
+5,adithi,f,18,3.8,92,95,93,A
+6,kiran,m,18,2.5,85,78,75,B
+7,anjali,f,17,4.5,99,91,95,A
+8,manish,m,19,1,65,60,58,D
